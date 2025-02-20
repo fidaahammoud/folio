@@ -19,7 +19,7 @@ const Footer = () => {
       <a href="https://github.com/fidaahammoud" target="_blank" rel="noreferrer" ><FaGithub /></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Fidaa 2024. All rights reserved.</small>
+        <small>&copy; Fidaa 2025. All rights reserved.</small>
       </div>
     </footer>
   )

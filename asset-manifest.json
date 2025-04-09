@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/folio/static/css/main.e7346d3c.css",
-    "main.js": "/folio/static/js/main.d928f383.js",
+    "main.css": "/folio/static/css/main.3319e70e.css",
+    "main.js": "/folio/static/js/main.3bbd143e.js",
     "static/media/profile.jpeg": "/folio/static/media/profile.a3f1e9c9db94a7c2a772.jpeg",
     "static/media/web_project.jpeg": "/folio/static/media/web_project.18d0052021307e63826d.jpeg",
     "static/media/mobile_project.jpeg": "/folio/static/media/mobile_project.e361b3e191b2cc53c0ce.jpeg",
-    "static/media/fidaa_hammoud_cv.pdf": "/folio/static/media/fidaa_hammoud_cv.f844d2549f6c62a217cc.pdf",
+    "static/media/fidaa-hammoud-resume.pdf": "/folio/static/media/fidaa-hammoud-resume.cee65bc8f1776bfda755.pdf",
     "static/media/backend.jpg": "/folio/static/media/backend.7610d60fd6012a78512a.jpg",
     "index.html": "/folio/index.html",
-    "main.e7346d3c.css.map": "/folio/static/css/main.e7346d3c.css.map",
-    "main.d928f383.js.map": "/folio/static/js/main.d928f383.js.map"
+    "main.3319e70e.css.map": "/folio/static/css/main.3319e70e.css.map",
+    "main.3bbd143e.js.map": "/folio/static/js/main.3bbd143e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7346d3c.css",
-    "static/js/main.d928f383.js"
+    "static/css/main.3319e70e.css",
+    "static/js/main.3bbd143e.js"
   ]
 }

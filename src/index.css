@@ -129,7 +129,7 @@ img {
 
 @media screen and (max-width: 768px) {
   section#about {
-    margin-top: -30rem !important;
+    margin-top: -25rem !important;
   }
 }
 

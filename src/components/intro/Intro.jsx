@@ -24,10 +24,14 @@ const Intro = () => {
             </article>
           </div>
           <p>
-          I am a Full-Stack Developer specializing in PHP, Laravel, MySQL, and WordPress, with a strong foundation in both technical and business aspects, gained through my Computer Science degree from Saint Joseph University of Beirut.<br/><br/>
-          I have hands-on experience building scalable web solutions and have developed a comprehensive recipe-sharing platform using React, React Native, and Laravel PHP.<br/><br/>
-          Currently, I work as a Full-Stack Developer, where I contribute to dynamic projects, enhance system efficiency, and continuously expand my expertise. Passionate about problem-solving and innovation, I thrive on learning and implementing new technologies.
-          </p>
+  I am a Full-Stack Developer with a Bachelor’s degree in Computer Science from Saint Joseph University of Beirut, specializing in PHP, Laravel, MySQL, and WordPress. I build scalable and efficient web applications with a strong focus on clean architecture and user experience.
+  <br /><br />
+  Alongside my development experience, I am currently expanding my expertise toward Artificial Intelligence and Data-Driven Systems through self-learning, particularly in Agentic AI, Large Language Models, and multi-agent frameworks.
+  <br /><br />
+  I have hands-on experience building full-stack solutions, including a comprehensive recipe-sharing platform using React, React Native, and Laravel, which strengthened my ability to design and integrate complex systems.
+  <br /><br />
+  I am passionate about combining software engineering with modern AI technologies to build intelligent, scalable, and impactful applications.
+</p>
 
         </div>
       </div>

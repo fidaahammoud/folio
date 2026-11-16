@@ -1,5 +1,4 @@
 import React from 'react';
-import CTA from './CTA';
 import HeaderSocials from './HeaderSocials';
 import './header.css';
 
@@ -10,7 +9,6 @@ const Header = () => {
         <h5>Hello I'm</h5>
         <h1>Fidaa Hammoud</h1>
         <h5 className="text-light">Software Developer</h5>
-        <CTA />
         <a href="#contact" className="scroll__down">
           Scroll Down
         </a>

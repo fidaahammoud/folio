@@ -45,17 +45,19 @@ header {
 
 @media screen and (max-width: 1024px){
   header {
-    height: 68vh;
+    height: auto;
+    padding-bottom: 1rem;
   }
 
-  section {
-    margin-top: 6rem;
+  /* Leave just enough room for the side socials and "Scroll Down" */
+  .header__container {
+    min-height: 18rem;
   }
 }
 
-@media screen and (max-width: 600px){
-  header {
-    height: 100vh;
+@media screen and (max-width: 768px){
+  .header__container {
+    min-height: 0;
   }
 
   .header__socials,

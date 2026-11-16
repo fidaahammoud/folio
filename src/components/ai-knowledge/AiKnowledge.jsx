@@ -6,6 +6,11 @@ import { HiOutlineAcademicCap } from "react-icons/hi";
 const learningTopics = [
   "Agentic AI & Autonomous AI Agents",
   "Large Language Models (LLMs)",
+  "Retrieval-Augmented Generation (RAG)",
+  "Vector Embeddings & Semantic Search",
+  "Vector Databases (PostgreSQL + pgvector)",
+  "Document Parsing & Text Chunking (Docling, PDF / DOCX)",
+  "AWS Bedrock (Claude Sonnet, Titan Embeddings v2)",
   "OpenAI Agents SDK",
   "CrewAI",
   "LangGraph",
@@ -13,7 +18,7 @@ const learningTopics = [
   "Model Context Protocol (MCP)",
   "Multi-Agent Systems",
   "Prompt Engineering",
-  "AI Workflow Automation",
+  "AI Workflow Automation with n8n",
   "AI Research & Software Engineering Agents",
   "Python for AI systems",
 ];

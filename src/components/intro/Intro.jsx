@@ -12,7 +12,7 @@ const Intro = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={img} alt="Rasif Taghizade" />
+            <img src={img} alt="Fidaa Hammoud" />
           </div>
         </div>
         <div className="about__content">
@@ -20,7 +20,7 @@ const Intro = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>1 Completed Projects</small>
+              <small>2 Completed Projects</small>
             </article>
           </div>
           <p>

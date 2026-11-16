@@ -127,12 +127,6 @@ img {
  
 }
 
-@media screen and (max-width: 768px) {
-  section#about {
-    margin-top: -25rem !important;
-  }
-}
-
 
 @media screen and (max-width: 600px){
   .container {
